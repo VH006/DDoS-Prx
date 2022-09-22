@@ -1,3 +1,4 @@
+sudo apt -y update; sudo apt -y install screen git nodejs
 npm i requests
 npm i https-proxy-agent
 npm i crypto-random-string
